@@ -42,6 +42,13 @@ const Data = {
       name: "Shoes",
       price: 100,
     },
+    {
+      id: 7,
+      discount: 60,
+      cover: "./images/flash/flash-3.png",
+      name: "Shoes",
+      price: 120,
+    },
   ],
 }
 export default Data
